@@ -1,0 +1,32 @@
+.wrapper{
+  width: 80%;
+  margin:0 auto;
+  border: 5px solid#ddd;
+  padding: 10px;
+}
+h1{
+  text-align: center;
+  color: red;
+  background: black;
+  padding:10px 0px;
+  margin: 0px 0px 10px 0px 
+}
+label{
+  font-size: 25px;
+  
+}
+input{
+  font-size: 15px;
+  margin-bottom: 10px;
+  
+}
+#first-name,#last-name,#email,#password{
+  padding: 10px 0px;
+  width: 100%;
+  margin-top: 10px;
+}
+
+
+td,th{
+  border: 1px solid;
+}
